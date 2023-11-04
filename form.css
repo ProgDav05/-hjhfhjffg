@@ -1,0 +1,22 @@
+body {
+    background-color: green;
+}
+
+main {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 60px;
+}
+
+label {
+    color: red;
+}
+
+button {
+    background-color: greenyellow;
+}
+
+#edad {
+    color: aliceblue;
+}

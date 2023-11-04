@@ -1,0 +1,33 @@
+main {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 50px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: darkgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: greenyellow;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+a:hover {
+    color: green;
+    transition: 0.5s;
+}
+
+
+
+
